@@ -1,5 +1,4 @@
-# Salom, men Samandar 👋
-
+Salom men Samandar
 **Frontend Developer** | React & JavaScript | Toshkent
 
 Portfolio: https://samandaryashuzoqov82-manba.github.io  
